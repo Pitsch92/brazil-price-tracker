@@ -92,25 +92,8 @@ It includes web scraping, data cleaning, and interactive dashboards for price mo
 This project is for educational and research purposes.  
 Please respect the terms of service of the sites you scrape.
 
----
-
-## 🙋‍♂️ Contributing
-
-Pull requests and suggestions are welcome!  
-Feel free to open issues for bugs, ideas, or questions.
-
----
 
 ## 📧 Contact
 
 Created by [Pitsch92](https://github.com/Pitsch92)
 
----
-
-**Happy price tracking! 📱🇧🇷**
-
----
-
-Let me know if you want to add badges, screenshots, or any other info!
-
-[1] https://github.com/Pitsch92/brazil-price-tracker
