@@ -1,9 +1,5 @@
-Here’s a professional and informative **README.md** for your [brazil-price-tracker](https://github.com/Pitsch92/brazil-price-tracker) project.  
-You can copy and paste this into your repository’s README.md file:
 
----
-
-# 🇧🇷 Brazil Price Tracker
+# Brazil Price Tracker
 
 **Brazil Price Tracker** is a data analysis and dashboard project for tracking and visualizing iPhone 16 prices across major Brazilian retailers.  
 It includes web scraping, data cleaning, and interactive dashboards for price monitoring and market analysis.
